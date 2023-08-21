@@ -52,6 +52,6 @@ This was the most difficult challenge in the beginner challenge section. The har
 
 ## Author
 
-- Frontend Mentor - [@erchicc90](https://www.frontendmentor.io/profile/erchicco90)
+- Frontend Mentor - [@erchicco90](https://www.frontendmentor.io/profile/erchicco90)
 - Twitter - [@Leotha09](https://www.twitter.com/leotha09)
 
