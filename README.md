@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (Solution](https://github.com/erchicco90/fourchallenge)
+- Solution URL: [Solution](https://github.com/erchicco90/fourchallenge)
 - Live Site URL: [Live Url](https://erchicco90.github.io/fourchallenge/)
 
 ## My process
