@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![][screenshot.jpg](https://github.com/erchicco90/fourchallenge/blob/main/design/Frontend%20Mentor%20Social%20proof%20section%20desktop.png?=raw)
+![](https://github.com/erchicco90/fourchallenge/blob/main/design/Frontend%20Mentor%20Social%20proof%20section%20desktop.png?=raw)
 
 
 ### Links
