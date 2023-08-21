@@ -13,7 +13,7 @@ main{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image:url(/challenge4/images/bg-pattern-top-mobile.svg);
+    background-image:url(./images/bg-pattern-top-mobile.svg);
     background-repeat: no-repeat;
 }
 .head{
@@ -146,7 +146,7 @@ section.rating{
         grid-template-rows: repeat(3,1fr);
         gap:12px;
         padding-top:1.5rem;
-        background-image: url(/challenge4/images/bg-pattern-bottom-desktop.svg);
+        background-image: url(./images/bg-pattern-bottom-desktop.svg);
 
     }
     .character{
